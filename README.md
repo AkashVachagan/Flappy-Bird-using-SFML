@@ -69,5 +69,5 @@ cmake --build build
 3. **Run the executable (usually inside build/):**
 
 ```bash
-./build/FlappyBird
+./build/flap
 ```
